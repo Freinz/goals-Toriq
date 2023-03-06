@@ -1,4 +1,6 @@
-saran project toriq
+project rekomendasi
+- membuat crud
+- membuat replika website e commerce
 - membuat website portofolio
-- membuatkan website rumah makan
 - berkaitan dengan laravel
+
