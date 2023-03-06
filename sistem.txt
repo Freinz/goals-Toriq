@@ -1,3 +1,6 @@
-project menurut ubai
+project rekomendasi
 - membuat crud
-- membuat replikas website e commerce
+- membuat replika website e commerce
+- membuat website portofolio
+- berkaitan dengan laravel
+
