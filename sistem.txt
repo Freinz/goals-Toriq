@@ -1,5 +1,4 @@
-sistem untuk meraih kesuksesan
-- selalu upgrade skill minimal 1 jam sehari
-- berolahraga minimal 3 kali seminggu
-- no pornografi
-- shalat 5 waktu
+saran project toriq
+- membuat website portofolio
+- membuatkan website rumah makan
+- berkaitan dengan laravel
