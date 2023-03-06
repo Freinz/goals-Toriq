@@ -1,5 +1,3 @@
-sistem untuk meraih kesuksesan
-- selalu upgrade skill minimal 1 jam sehari
-- berolahraga minimal 3 kali seminggu
-- no pornografi
-- shalat 5 waktu
+project menurut ubai
+- membuat crud
+- membuat replikas website e commerce
