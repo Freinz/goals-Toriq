@@ -2,7 +2,8 @@ Goals Toriq
 - menguasai dan memahami git & github
 - menguasai dan memahami mengenai laravel
 - mengenal lebih dalam mengenai android developer
-- menghasilkan income untuk membahagiakan diri sendiri dan salwa
+- menghasilkan income untuk membahagiakan diri sendiri dan orang orang di sekitar
 - memiliki kebahagiaan yang memiliki dampak baik untuk masa sekarang dan masa yang akan datang
 - membantu orang tua untuk menyukseskan bisnis keluarga
 - saya ingin memiliki pengalaman di luar kampus
+- ingin mengapresiasi kinerja saat ini
